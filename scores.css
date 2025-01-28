@@ -1,6 +1,8 @@
 td {
-  max-width: 40vw;
+  max-width: 40em;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
 }
